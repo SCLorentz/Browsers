@@ -9,9 +9,28 @@ Just a list of browsers
 
 ![arc overview](./images/arc/image2.png)
 
+### General Info:
+
+- Closed source
+- Only security updates nowadays
+
+## Brave
+
+![brave overview](./images/brave/image3.png)
+
+### General Info:
+
+- Tor protocol support
+- Unstoppable domains support
+- Custom local AI models support
+
 ## Dia
 
 ![dia overview](./images/dia/image7.png)
+
+### General Info:
+
+- Closed source
 
 ## Duckduckgo
 
@@ -30,6 +49,10 @@ Just a list of browsers
 ![firefox overview](./images/firefox/image4.png)
 
 __change this image__
+
+### General Info:
+
+- Open source
 
 ## Floorp
 
@@ -120,6 +143,11 @@ __change this image__
 
 ![tor overview](./images/tor/image1.png)
 
+### General Info:
+
+- Tor protocol support (obviously)
+- Open source
+
 ## Ulaa
 
 ![ulaa ovewview](./images/ulaa/image1.png)
@@ -135,3 +163,7 @@ __change this image__
 ## Zen
 
 ![zen overview](./images/zen/image1.png)
+
+### Patches:
+
+- betterfox.js
