@@ -1,0 +1,3 @@
+installation via .zip file --> .dmg installer file (not the browser itself)
+continuously asked me to use my confidential information stored in "Opera Safe Storage"
+placed itself in my taskbar without my permission
