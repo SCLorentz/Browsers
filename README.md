@@ -21,11 +21,15 @@ Just a list of browsers
 
 ![edge overview](./images/edge/image7.png)
 
+## Falkon
+
+! having problems with compilation on macos
+
 ## Firefox
 
 ![firefox overview](./images/firefox/image4.png)
 
-__change that image__
+__change this image__
 
 ## Floorp
 
@@ -34,6 +38,10 @@ __change that image__
 ## Helium
 
 ![helium overview](./images/helium/image_4.png)
+
+### General Info:
+
+- Open source
 
 ### Patches:
 
@@ -48,21 +56,61 @@ __change that image__
 
 ![ladybird overview](./images/ladybird/image1.png)
 
+### General Info:
+
+- Needs to be compiled manually
+- Not for daily usage
+- Open source
+
 ## Opera
 
 ![opera overview](./images/opera/image4.png)
+
+## Opera Air
+
+![opera air overview](./images/opera_air/image4.png)
 
 ## Opera GX
 
 ![opera gx overview](./images/opera_gx/image2.png)
 
+## Polypane
+
+![polypane overview](./image/polypane/image2.png)
+
+### General Info:
+
+- Paid to use
+- Closed source
+- Not for daily usage
+
 ## Safari
 
 ![safari overview](./images/safari/image1.png)
 
+### General Info:
+
+- Only avaliable for apple sowftware
+- Closed source
+
 ## Servo
 
 ![servo overview](./images/servo/image5.png)
+
+### General Info:
+
+- Open Source
+- Not viable for daily usage
+
+## SigmaOS
+
+![sigmaOS ovweview](./images/sigmaOS/image7.png)
+
+### General Info:
+
+- Avaliable only for MacOS
+- Closed source
+- Has a paid subscription
 
 ## Surf
 
