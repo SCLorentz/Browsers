@@ -33,10 +33,28 @@ __change that image__
 
 ## Opera
 
+![opera overview](./images/opera/image4.png)
+
 ## Opera GX
+
+![opera gx overview](./images/opera_gx/image2.png)
+
+## Safari
+
+![safari overview](./images/safari/image1.png)
 
 ## Surf
 
+![surf overview](./images/surf/image1.png)
+
 ## Tor
 
+![tor overview](./images/tor/image1.png)
+
 ## Ulaa
+
+![ulaa ovewview](./images/ulaa/image1.png)
+
+## Zen
+
+![zen overview](./images/zen/image1.png)
