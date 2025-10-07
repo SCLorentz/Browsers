@@ -5,6 +5,10 @@ Just a list of browsers
 
 ![aloha overview](./images/aloha/image1.png)
 
+## Arc
+
+![arc overview](./images/arc/image2.png)
+
 ## Duckduckgo
 
 ![duckduckgo overview](./images/duckduckgo/image3.png)
@@ -27,6 +31,15 @@ __change that image__
 
 ![helium overview](./images/helium/image_4.png)
 
+### Patches:
+
+- Ungoogled Chromium
+- Bromite
+- Brave
+- Inox
+- debian
+- iridium-browser
+
 ## Ladybird
 
 ![ladybird overview](./images/ladybird/image1.png)
@@ -43,6 +56,10 @@ __change that image__
 
 ![safari overview](./images/safari/image1.png)
 
+## Servo
+
+![servo overview](./images/servo/image5.png)
+
 ## Surf
 
 ![surf overview](./images/surf/image1.png)
@@ -54,6 +71,10 @@ __change that image__
 ## Ulaa
 
 ![ulaa ovewview](./images/ulaa/image1.png)
+
+## Ungoogled Chromium
+
+![ungoogled chromium overview](./images/ungoogled_chromium/image2.png)
 
 ## Zen
 
