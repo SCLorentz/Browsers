@@ -24,6 +24,10 @@ Just a list of browsers
 - Unstoppable domains support
 - Custom local AI models support
 
+## Goole Chrome
+
+![google chrome](./images/chrome/image2.png)
+
 ## Dia
 
 ![dia overview](./images/dia/image7.png)
