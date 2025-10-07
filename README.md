@@ -76,7 +76,7 @@ __change this image__
 
 ## Polypane
 
-![polypane overview](./image/polypane/image2.png)
+![polypane overview](./images/polypane/image2.png)
 
 ### General Info:
 
