@@ -9,6 +9,10 @@ Just a list of browsers
 
 ![arc overview](./images/arc/image2.png)
 
+## Dia
+
+![dia overview](./images/dia/image7.png)
+
 ## Duckduckgo
 
 ![duckduckgo overview](./images/duckduckgo/image3.png)
@@ -75,6 +79,10 @@ __change that image__
 ## Ungoogled Chromium
 
 ![ungoogled chromium overview](./images/ungoogled_chromium/image2.png)
+
+## Vivaldi
+
+![vivaldi overview](./images/vivaldi/image4.png)
 
 ## Zen
 
