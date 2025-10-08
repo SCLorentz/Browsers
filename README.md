@@ -14,6 +14,10 @@ Just a list of browsers
 - Closed source
 - Only security updates nowadays
 
+## Basilisk
+
+![basilisk overview](./images/basilisk/image2.png)
+
 ## Brave
 
 ![brave overview](./images/brave/image3.png)
@@ -100,6 +104,14 @@ __change this image__
 ## Opera GX
 
 ![opera gx overview](./images/opera_gx/image2.png)
+
+## Orion
+
+[orion overview](./image/orion/image1.png)
+
+## Phoebe
+
+![phoebe overview](./image/phoebe/image3.png)
 
 ## Polypane
 
