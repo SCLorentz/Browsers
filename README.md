@@ -107,11 +107,11 @@ __change this image__
 
 ## Orion
 
-[orion overview](./image/orion/image1.png)
+![orion overview](./images/orion/image1.png)
 
 ## Phoebe
 
-![phoebe overview](./image/phoebe/image3.png)
+![phoebe overview](./images/phoebe/image3.png)
 
 ## Polypane
 
