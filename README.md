@@ -5,6 +5,10 @@ Just a list of browsers
 
 ![aloha overview](./images/aloha/image1.png)
 
+### General Info:
+
+- Based on chromium
+
 ## Arc
 
 ![arc overview](./images/arc/image2.png)
@@ -13,6 +17,7 @@ Just a list of browsers
 
 - Closed source
 - Only security updates nowadays
+- Based on chromium
 
 ## Basilisk
 
@@ -27,10 +32,22 @@ Just a list of browsers
 - Tor protocol support
 - Unstoppable domains support
 - Custom local AI models support
+- Based on chromium
+- Open source
 
 ## Goole Chrome
 
 ![google chrome](./images/chrome/image2.png)
+
+### General Info:
+
+- Closed source
+- Based on Chromium
+
+### Chromium:
+
+- Open source
+- Blink engine
 
 ## Dia
 
@@ -39,28 +56,41 @@ Just a list of browsers
 ### General Info:
 
 - Closed source
+- Based on Chromium
 
 ## Duckduckgo
 
 ![duckduckgo overview](./images/duckduckgo/image3.png)
 
+### General Info:
+
+- Based on chromium
+
 ## Edge
 
 ![edge overview](./images/edge/image7.png)
+
+### General Info:
+
+- Closed source
+- Based on chromium
 
 ## Falkon
 
 ! having problems with compilation on macos
 
+### General Info:
+
+- Qt engine
+
 ## Firefox
 
 ![firefox overview](./images/firefox/image4.png)
 
-__change this image__
-
 ### General Info:
 
 - Open source
+- Geckgo engine
 
 ## Floorp
 
@@ -73,6 +103,7 @@ __change this image__
 ### General Info:
 
 - Open source
+- Based on chromium
 
 ### Patches:
 
@@ -92,26 +123,57 @@ __change this image__
 - Needs to be compiled manually
 - Not for daily usage
 - Open source
+- Libweb engine
 
 ## Librewolf
 
 ![librewolf overview](./images/librewolf/image1.png)
 
+### General Info:
+
+- Based on firefox
+- Open source
+
+### Patches:
+
+- Improved security
+
 ## Opera
 
 ![opera overview](./images/opera/image4.png)
+
+### General Info:
+
+- Based on chromium
 
 ## Opera Air
 
 ![opera air overview](./images/opera_air/image4.png)
 
+### General Info:
+
+- Based on chromium
+
 ## Opera GX
 
 ![opera gx overview](./images/opera_gx/image2.png)
 
+### Self description:
+
+A browser for gamers
+
+### General Info:
+
+- Based on chromium
+
 ## Orion
 
 ![orion overview](./images/orion/image1.png)
+
+### General Info:
+
+- Webkit engine
+- Works for linux
 
 ## Phoebe
 
@@ -126,6 +188,7 @@ __change this image__
 - Paid to use
 - Closed source
 - Not for daily usage
+- Based on chromium
 
 ## Safari
 
@@ -135,6 +198,7 @@ __change this image__
 
 - Only avaliable for apple sowftware
 - Closed source
+- Webkit engine
 
 ## Servo
 
@@ -144,6 +208,7 @@ __change this image__
 
 - Open Source
 - Not viable for daily usage
+- Servo engine
 
 ## SigmaOS
 
@@ -154,6 +219,7 @@ __change this image__
 - Avaliable only for MacOS
 - Closed source
 - Has a paid subscription
+- Webkit engine
 
 ## Surf
 
@@ -167,6 +233,12 @@ __change this image__
 
 - Tor protocol support (obviously)
 - Open source
+- Based on firefox
+
+### Patches:
+
+- Tor protocol
+- Improved security
 
 ## Ulaa
 
@@ -176,13 +248,31 @@ __change this image__
 
 ![ungoogled chromium overview](./images/ungoogled_chromium/image2.png)
 
+### General Info:
+
+- Based on chromium
+
+### Patches:
+
+- Removal of google services
+- Removal of proprietary blobs
+
 ## Vivaldi
 
 ![vivaldi overview](./images/vivaldi/image4.png)
 
+## General Info:
+
+- Baded on chromium
+
 ## Yandex
 
 ![yandex overview](./images/yandex/image5.png)
+
+### General Info:
+
+- Closed source
+- Based on chromium
 
 ## Zen
 
