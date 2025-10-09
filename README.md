@@ -1,6 +1,62 @@
 # Browsers
 Just a list of browsers
 
+[Aloha](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#aloha)
+
+[Arc](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#arc)
+
+[Basilisk](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#basilisk)
+
+[Brave](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#brave)
+
+[Chrome](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#chrome)
+
+[Dia](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#dia)
+
+[Duckduckgo](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#duckduckgo)
+
+[Edge](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#edge)
+
+[Falkon](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#falkon)
+
+[Firefox](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#firefox)
+
+[Floorp](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#helium)
+
+[Ladybird](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#ladybird)
+
+[Librewolf](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#librewolf)
+
+[Opera](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#opera)
+
+[Opera Air](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#opera%20air)
+
+[Opera Gx](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#opera%20gx)
+
+[Orion](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#orion)
+
+[Phoebe](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#phoebe)
+
+[Polypane](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#polypane)
+
+[Safari](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#safari)
+
+[SigmaOS](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#sigmaOS)
+
+[Surf](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#surf)
+
+[Tor](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#tor)
+
+[Ulaa](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#ulaa)
+
+[Ungoogled Chromium](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#ungoogled%20chromium)
+
+[Vivaldi](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#vivaldi)
+
+[Yandex](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#yandex)
+
+[Zen](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#zen)
+
 ## Aloha
 
 ![aloha overview](./images/aloha/image1.png)
