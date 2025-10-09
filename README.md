@@ -93,6 +93,10 @@ __change this image__
 - Not for daily usage
 - Open source
 
+## Librewolf
+
+![librewolf overview](./images/librewolf/image1.png)
+
 ## Opera
 
 ![opera overview](./images/opera/image4.png)
@@ -175,6 +179,10 @@ __change this image__
 ## Vivaldi
 
 ![vivaldi overview](./images/vivaldi/image4.png)
+
+## Yandex
+
+![yandex overview](./images/yandex/image5.png)
 
 ## Zen
 
