@@ -14,6 +14,16 @@ Just a list of browsers
 - Closed source
 - Only security updates nowadays
 
+## Atlas
+
+![atlas overview](./images/atlas/image_7.png)
+
+### General Info:
+
+- Closed source
+- AI focused browser
+- Removed about://urls support
+
 ## Basilisk
 
 ![basilisk overview](./images/basilisk/image2.png)
@@ -27,10 +37,16 @@ Just a list of browsers
 - Tor protocol support
 - Unstoppable domains support
 - Custom local AI models support
+- AI featured browser
 
 ## Goole Chrome
 
 ![google chrome](./images/chrome/image2.png)
+
+### General Info:
+
+- Closed source (google chrome differs from chromium)
+- AI featured browser
 
 ## Dia
 
@@ -39,14 +55,24 @@ Just a list of browsers
 ### General Info:
 
 - Closed source
+- AI focused browser
 
 ## Duckduckgo
 
 ![duckduckgo overview](./images/duckduckgo/image3.png)
 
+### General Info:
+
+- AI featured browser
+
 ## Edge
 
 ![edge overview](./images/edge/image7.png)
+
+### General Info:
+
+- Closed source
+- AI featured browser
 
 ## Falkon
 
@@ -61,6 +87,7 @@ __change this image__
 ### General Info:
 
 - Open source
+- AI featured browser
 
 ## Floorp
 
@@ -101,13 +128,25 @@ __change this image__
 
 ![opera overview](./images/opera/image4.png)
 
+### General Info:
+
+- Closed source
+- AI featured browser
+
 ## Opera Air
 
 ![opera air overview](./images/opera_air/image4.png)
 
+- Closed source
+- AI featured browser
+
 ## Opera GX
 
 ![opera gx overview](./images/opera_gx/image2.png)
+
+- Closed source
+- AI featured browser
+- Focused on gaming performance
 
 ## Orion
 
@@ -158,6 +197,11 @@ __change this image__
 ## Surf
 
 ![surf overview](./images/surf/image1.png)
+
+## General Info:
+
+- Open source
+- AI focused browser
 
 ## Tor
 
