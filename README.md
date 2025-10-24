@@ -5,6 +5,8 @@ Just a list of browsers
 
 [Arc](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#arc)
 
+[Atlas](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#Atlas)
+
 [Basilisk](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#basilisk)
 
 [Brave](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#brave)
@@ -98,12 +100,9 @@ Just a list of browsers
 - Tor protocol support
 - Unstoppable domains support
 - Custom local AI models support
-<<<<<<< HEAD
 - AI featured browser
-=======
 - Based on chromium
 - Open source
->>>>>>> 7d05b66a7c6295ed71767b99f1d0dc27d6373ab5
 
 ## Goole Chrome
 
@@ -111,18 +110,10 @@ Just a list of browsers
 
 ### General Info:
 
-<<<<<<< HEAD
-- Closed source (google chrome differs from chromium)
+- Closed source __(google chrome differs from chromium)__
 - AI featured browser
-=======
 - Closed source
-- Based on Chromium
-
-### Chromium:
-
-- Open source
 - Blink engine
->>>>>>> 7d05b66a7c6295ed71767b99f1d0dc27d6373ab5
 
 ## Dia
 
@@ -131,11 +122,8 @@ Just a list of browsers
 ### General Info:
 
 - Closed source
-<<<<<<< HEAD
 - AI focused browser
-=======
 - Based on Chromium
->>>>>>> 7d05b66a7c6295ed71767b99f1d0dc27d6373ab5
 
 ## Duckduckgo
 
@@ -143,11 +131,8 @@ Just a list of browsers
 
 ### General Info:
 
-<<<<<<< HEAD
 - AI featured browser
-=======
 - Based on chromium
->>>>>>> 7d05b66a7c6295ed71767b99f1d0dc27d6373ab5
 
 ## Edge
 
@@ -156,11 +141,8 @@ Just a list of browsers
 ### General Info:
 
 - Closed source
-<<<<<<< HEAD
 - AI featured browser
-=======
 - Based on chromium
->>>>>>> 7d05b66a7c6295ed71767b99f1d0dc27d6373ab5
 
 ## Falkon
 
@@ -177,11 +159,8 @@ Just a list of browsers
 ### General Info:
 
 - Open source
-<<<<<<< HEAD
 - AI featured browser
-=======
 - Geckgo engine
->>>>>>> 7d05b66a7c6295ed71767b99f1d0dc27d6373ab5
 
 ## Floorp
 
@@ -235,43 +214,33 @@ Just a list of browsers
 
 ### General Info:
 
-<<<<<<< HEAD
 - Closed source
 - AI featured browser
-=======
 - Based on chromium
->>>>>>> 7d05b66a7c6295ed71767b99f1d0dc27d6373ab5
 
 ## Opera Air
 
 ![opera air overview](./images/opera_air/image4.png)
 
-<<<<<<< HEAD
-- Closed source
-- AI featured browser
-=======
 ### General Info:
 
+- Closed source
+- AI featured browser
 - Based on chromium
->>>>>>> 7d05b66a7c6295ed71767b99f1d0dc27d6373ab5
 
 ## Opera GX
 
 ![opera gx overview](./images/opera_gx/image2.png)
 
-<<<<<<< HEAD
+### General Info:
+
 - Closed source
 - AI featured browser
-- Focused on gaming performance
-=======
+- Based on chromium
+
 ### Self description:
 
 A browser for gamers
-
-### General Info:
-
-- Based on chromium
->>>>>>> 7d05b66a7c6295ed71767b99f1d0dc27d6373ab5
 
 ## Orion
 
@@ -332,7 +301,7 @@ A browser for gamers
 
 ![surf overview](./images/surf/image1.png)
 
-## General Info:
+### General Info:
 
 - Open source
 - AI focused browser
