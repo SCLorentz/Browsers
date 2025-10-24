@@ -1,9 +1,69 @@
 # Browsers
 Just a list of browsers
 
+[Aloha](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#aloha)
+
+[Arc](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#arc)
+
+[Basilisk](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#basilisk)
+
+[Brave](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#brave)
+
+[Chrome](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#chrome)
+
+[Dia](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#dia)
+
+[Duckduckgo](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#duckduckgo)
+
+[Edge](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#edge)
+
+[Falkon](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#falkon)
+
+[Firefox](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#firefox)
+
+[Floorp](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#helium)
+
+[Ladybird](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#ladybird)
+
+[Librewolf](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#librewolf)
+
+[Opera](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#opera)
+
+[Opera Air](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#opera%20air)
+
+[Opera Gx](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#opera%20gx)
+
+[Orion](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#orion)
+
+[Phoebe](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#phoebe)
+
+[Polypane](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#polypane)
+
+[Safari](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#safari)
+
+[SigmaOS](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#sigmaOS)
+
+[Surf](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#surf)
+
+[Tor](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#tor)
+
+[Ulaa](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#ulaa)
+
+[Ungoogled Chromium](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#ungoogled%20chromium)
+
+[Vivaldi](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#vivaldi)
+
+[Yandex](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#yandex)
+
+[Zen](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#zen)
+
 ## Aloha
 
 ![aloha overview](./images/aloha/image1.png)
+
+### General Info:
+
+- Based on chromium
 
 ## Arc
 
@@ -13,6 +73,7 @@ Just a list of browsers
 
 - Closed source
 - Only security updates nowadays
+- Based on chromium
 
 ## Atlas
 
@@ -37,7 +98,12 @@ Just a list of browsers
 - Tor protocol support
 - Unstoppable domains support
 - Custom local AI models support
+<<<<<<< HEAD
 - AI featured browser
+=======
+- Based on chromium
+- Open source
+>>>>>>> 7d05b66a7c6295ed71767b99f1d0dc27d6373ab5
 
 ## Goole Chrome
 
@@ -45,8 +111,18 @@ Just a list of browsers
 
 ### General Info:
 
+<<<<<<< HEAD
 - Closed source (google chrome differs from chromium)
 - AI featured browser
+=======
+- Closed source
+- Based on Chromium
+
+### Chromium:
+
+- Open source
+- Blink engine
+>>>>>>> 7d05b66a7c6295ed71767b99f1d0dc27d6373ab5
 
 ## Dia
 
@@ -55,7 +131,11 @@ Just a list of browsers
 ### General Info:
 
 - Closed source
+<<<<<<< HEAD
 - AI focused browser
+=======
+- Based on Chromium
+>>>>>>> 7d05b66a7c6295ed71767b99f1d0dc27d6373ab5
 
 ## Duckduckgo
 
@@ -63,7 +143,11 @@ Just a list of browsers
 
 ### General Info:
 
+<<<<<<< HEAD
 - AI featured browser
+=======
+- Based on chromium
+>>>>>>> 7d05b66a7c6295ed71767b99f1d0dc27d6373ab5
 
 ## Edge
 
@@ -72,22 +156,32 @@ Just a list of browsers
 ### General Info:
 
 - Closed source
+<<<<<<< HEAD
 - AI featured browser
+=======
+- Based on chromium
+>>>>>>> 7d05b66a7c6295ed71767b99f1d0dc27d6373ab5
 
 ## Falkon
 
 ! having problems with compilation on macos
 
+### General Info:
+
+- Qt engine
+
 ## Firefox
 
 ![firefox overview](./images/firefox/image4.png)
 
-__change this image__
-
 ### General Info:
 
 - Open source
+<<<<<<< HEAD
 - AI featured browser
+=======
+- Geckgo engine
+>>>>>>> 7d05b66a7c6295ed71767b99f1d0dc27d6373ab5
 
 ## Floorp
 
@@ -100,6 +194,7 @@ __change this image__
 ### General Info:
 
 - Open source
+- Based on chromium
 
 ### Patches:
 
@@ -119,10 +214,20 @@ __change this image__
 - Needs to be compiled manually
 - Not for daily usage
 - Open source
+- Libweb engine
 
 ## Librewolf
 
 ![librewolf overview](./images/librewolf/image1.png)
+
+### General Info:
+
+- Based on firefox
+- Open source
+
+### Patches:
+
+- Improved security
 
 ## Opera
 
@@ -130,27 +235,52 @@ __change this image__
 
 ### General Info:
 
+<<<<<<< HEAD
 - Closed source
 - AI featured browser
+=======
+- Based on chromium
+>>>>>>> 7d05b66a7c6295ed71767b99f1d0dc27d6373ab5
 
 ## Opera Air
 
 ![opera air overview](./images/opera_air/image4.png)
 
+<<<<<<< HEAD
 - Closed source
 - AI featured browser
+=======
+### General Info:
+
+- Based on chromium
+>>>>>>> 7d05b66a7c6295ed71767b99f1d0dc27d6373ab5
 
 ## Opera GX
 
 ![opera gx overview](./images/opera_gx/image2.png)
 
+<<<<<<< HEAD
 - Closed source
 - AI featured browser
 - Focused on gaming performance
+=======
+### Self description:
+
+A browser for gamers
+
+### General Info:
+
+- Based on chromium
+>>>>>>> 7d05b66a7c6295ed71767b99f1d0dc27d6373ab5
 
 ## Orion
 
 ![orion overview](./images/orion/image1.png)
+
+### General Info:
+
+- Webkit engine
+- Works for linux
 
 ## Phoebe
 
@@ -165,6 +295,7 @@ __change this image__
 - Paid to use
 - Closed source
 - Not for daily usage
+- Based on chromium
 
 ## Safari
 
@@ -174,6 +305,7 @@ __change this image__
 
 - Only avaliable for apple sowftware
 - Closed source
+- Webkit engine
 
 ## Servo
 
@@ -183,6 +315,7 @@ __change this image__
 
 - Open Source
 - Not viable for daily usage
+- Servo engine
 
 ## SigmaOS
 
@@ -193,6 +326,7 @@ __change this image__
 - Avaliable only for MacOS
 - Closed source
 - Has a paid subscription
+- Webkit engine
 
 ## Surf
 
@@ -211,6 +345,12 @@ __change this image__
 
 - Tor protocol support (obviously)
 - Open source
+- Based on firefox
+
+### Patches:
+
+- Tor protocol
+- Improved security
 
 ## Ulaa
 
@@ -220,13 +360,31 @@ __change this image__
 
 ![ungoogled chromium overview](./images/ungoogled_chromium/image2.png)
 
+### General Info:
+
+- Based on chromium
+
+### Patches:
+
+- Removal of google services
+- Removal of proprietary blobs
+
 ## Vivaldi
 
 ![vivaldi overview](./images/vivaldi/image4.png)
 
+## General Info:
+
+- Baded on chromium
+
 ## Yandex
 
 ![yandex overview](./images/yandex/image5.png)
+
+### General Info:
+
+- Closed source
+- Based on chromium
 
 ## Zen
 
