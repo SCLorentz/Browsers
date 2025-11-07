@@ -1,5 +1,5 @@
 # Browsers
-Just a list of browsers
+Just a list of browsers with some metrics
 
 [Aloha](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#aloha)
 
