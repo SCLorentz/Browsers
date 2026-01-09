@@ -77,6 +77,10 @@ Just a list of browsers with some metrics
 - Only security updates nowadays
 - Based on chromium
 
+### Author's Overview
+
+It was nice while it lasted. The browser modernized browsing for many with a new design philosophy.
+
 ## Atlas
 
 ![atlas overview](./images/atlas/image_7.png)
@@ -86,10 +90,31 @@ Just a list of browsers with some metrics
 - Closed source
 - AI focused browser
 - Removed about://urls support
+- Based on chromium
+
+### Author's Overview
+
+The browser that made google stock share fall 4% and promised: “You control what it remembers about you, how your data is used, and the privacy settings that apply while you browse.”, what was actually promised was "You control what it remembers about you when it's talking to you". This is not a browser that reinvents the web, the first of a kind that allows the user to create a "sexy firefighter calendar picture" (see below) of themselves. It does the same thing that most browsers already do, and as always, using chromium as their base.
+
+<img width="409" alt="x post screenshot of a 'slop' image created by Sam Altman (OpenAI CEO)" src="https://github.com/user-attachments/assets/2184a840-08b9-4300-96bd-02fe5211ef30" />
+
+see more at:
+https://www.theguardian.com/technology/2025/oct/21/openai-chatgpt-web-browser-atlas?ref=cupure
 
 ## Basilisk
 
 ![basilisk overview](./images/basilisk/image2.png)
+
+### General Info:
+
+- Open Source
+- Goanna rendering engine
+- Java support
+- Flash support
+
+### Author's Overview
+
+It is in fact a solid browser, not for "normal", as in "non-experienced" or "non-developers" users, but a niche for the indie-web. The team behind it's keeping a lot of legacy features alive while still supporting modern browser features.
 
 ## Brave
 
@@ -114,6 +139,10 @@ Just a list of browsers with some metrics
 - AI featured browser
 - Closed source
 - Blink engine
+
+### Author's Overview
+
+The browser from the company that is banking the web. Mozilla wouldn't exist if it wasn't for google's donations. Google chrome is the best option for somewhone who just wants their job done. Of course, they are also responsible to control how the web works since they control 68% of the browser market share and other browsers comply or get behind ([for example, the manifest v3 situation](https://developer.chrome.com/docs/extensions/develop/migrate/what-is-mv3))
 
 ## Dia
 
