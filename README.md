@@ -25,6 +25,8 @@ Just a list of browsers with some metrics
 
 [Floorp](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#helium)
 
+[Flow](https://github.com/SCLorentz/Browsers)
+
 [Ladybird](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#ladybird)
 
 [Librewolf](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#librewolf)
@@ -137,8 +139,8 @@ It is in fact a solid browser, not for "normal", as in "non-experienced" or "non
 
 - Closed source __(google chrome differs from chromium)__
 - AI featured browser
-- Closed source
 - Blink engine
+- Vertical tabs
 
 ### Author's Overview
 
@@ -194,6 +196,28 @@ The browser from the company that is banking the web. Mozilla wouldn't exist if 
 ## Floorp
 
 ![floorp overview](./images/floorp/image5.png)
+
+## Flow
+
+there is a browser named flow based on chromium avaliable for use on linux/mac/windows
+![flow overview](./images/flow/overview.png)
+
+https://flow-browser.com/
+
+### General Info:
+
+- Open source
+- Vertical tabs
+- Based on chromium
+- Disabled `about:urls`
+
+... but there is also a browser engine/ browser named flow avaliable on the site:
+
+https://www.ekioh.com/flow-browser/
+
+A proprietary browser that "draws HTML elements directly on the GPU" accordingly to it's official website.
+
+The second browser impressed me way more than the first one since creating a browser engine from scratch isn't a simple thing, but it's more used for embedded systems and it's closed source.
 
 ## Helium
 
