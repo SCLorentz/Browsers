@@ -1,6 +1,11 @@
 # Browsers
 Just a list of browsers with some metrics
 
+- ~61,11% of the browsers here are chromium based
+- ~16,67% are based on firefox
+- ~13,89% use webkit
+- ~8,33 have their own engine
+
 | Browser                  | Engine             | Widevine DRM | Paid / Premium  | AI featured | Open Source |
 |--------------------------|--------------------|--------------|-----------------|-------------|-------------|
 | [Aloha](#aloha)          | Blink              | L3           | No              | -           | ?           |
@@ -33,7 +38,7 @@ Just a list of browsers with some metrics
 | [Safari](#safari)        | Webkit             | L3           | No              | -           | No          |
 | [SigmaOS](#sigmaos)      | Webkit             | -            | Pro             | -           | ?           |
 | [Surf](#surf)            | Blink              | -            | No              | Surf        | No          |
-| [Tor](#tor)              | Tor                | -            | No              | -           | Yes         |
+| [Tor](#tor)              | Gecko              | -            | No              | -           | Yes         |
 | [Ulaa](#ulaa)            | Blink              | -            | No              | -           | ?           |
 | [Ungoogled](#ungoogled)  | Blink              | -            | No              | -           | Yes         |
 | [Vivaldi](#vivaldi)      | Blink              | -            | No              | -           | Yes         |
