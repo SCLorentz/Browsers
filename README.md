@@ -215,9 +215,12 @@ https://flow-browser.com/
 
 https://www.ekioh.com/flow-browser/
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ac06c65f-0bc6-415b-bc75-8463044154b2" />
+avaliable on https://www.ekioh.com/blog/, accessed on Sat 21 Feb
+
 A proprietary browser that "draws HTML elements directly on the GPU" accordingly to it's official website.
 
-The second browser impressed me way more than the first one since creating a browser engine from scratch isn't a simple thing, but it's more used for embedded systems and it's closed source.
+The second browser impressed me way more than the first one since creating a browser engine from scratch isn't a simple thing, but it's more used for embedded systems and it's closed source. The binaries are only avaliable for raspberry pi.
 
 ## Helium
 
