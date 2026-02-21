@@ -1,65 +1,44 @@
 # Browsers
 Just a list of browsers with some metrics
 
-[Aloha](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#aloha)
-
-[Arc](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#arc)
-
-[Atlas](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#Atlas)
-
-[Basilisk](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#basilisk)
-
-[Brave](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#brave)
-
-[Chrome](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#chrome)
-
-[Dia](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#dia)
-
-[Duckduckgo](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#duckduckgo)
-
-[Edge](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#edge)
-
-[Falkon](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#falkon)
-
-[Firefox](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#firefox)
-
-[Floorp](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#helium)
-
-[Flow](https://github.com/SCLorentz/Browsers)
-
-[Ladybird](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#ladybird)
-
-[Librewolf](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#librewolf)
-
-[Opera](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#opera)
-
-[Opera Air](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#opera%20air)
-
-[Opera Gx](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#opera%20gx)
-
-[Orion](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#orion)
-
-[Phoebe](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#phoebe)
-
-[Polypane](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#polypane)
-
-[Safari](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#safari)
-
-[SigmaOS](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#sigmaOS)
-
-[Surf](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#surf)
-
-[Tor](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#tor)
-
-[Ulaa](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#ulaa)
-
-[Ungoogled Chromium](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#ungoogled%20chromium)
-
-[Vivaldi](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#vivaldi)
-
-[Yandex](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#yandex)
-
-[Zen](https://github.com/SCLorentz/Browsers?tab=readme-ov-file#zen)
+| Browser                  | Engine             | Widevine DRM | Paid / Premium  | AI featured | Open Source |
+|--------------------------|--------------------|--------------|-----------------|-------------|-------------|
+| [Aloha](#aloha)          | Blink              | L3           | No              | -           | ?           |
+| [Arc](#arc)              | Blink              | L3           | No              | -           | No          |
+| [Atlas](#atlas)          | Blink              | L3           | No              | ChatGPT     | No          |
+| [Basilisk](#basilisk)    | Gecko              | -            | No              | -           | Yes         |
+| [Brave](#brave)          | Blink              | -            | No              | Leo         | Yes         |
+| [Chrome](#chrome)        | Blink              | L3           | No              | Gemini      | No          |
+| Chromium                 | Blink              | L3           | No              | Gemini      | Yes         |
+| [Dia](#dia)              | Blink              | -            | No              | Dia         | No          |
+| [DDG](#duckduckgo)       | Blink              | -            | No              | Duck AI     | Yes         |
+| [Edge](#edge)            | Blink              | -            | No              | Copilot     | No          |
+| [Epiphany](#epiphany)    | WebKitGTK          | -            | No              | -           | Yes         |
+| [Falkon](#falkon)        | QtWebEngine (Blink)| -            | No              | -           | Yes         |
+| [Firefox](#firefox)      | Gecko              | L3           | No              | ?           | Yes         |
+| [Floorp](#floorp)        | Gecko              | -            | No              | -           | Yes         |
+| [Flow](#flow)            | Blink/Flow         | -            | No              | -           | ?           |
+| [Helium](#helium)        | Blink              | -            | No              | -           | Yes         |
+| [Ladybird](#ladybird)    | LibWeb             | -            | No              | -           | Yes         |
+| [LibreWolf](#librewolf)  | Geckgo             | -            | No              | -           | Yes         |
+| [NetSurf](#netsurf)      | NetSurf            | -            | No              | -           | Yes         |
+| [Opera](#opera)          | Blink              | -            | No              | ChatGPT     | No          |
+| [Opera Air](#opera_air)  | Blink              | -            | No              | ChatGPT     | No          |
+| [Opera GX](#opera_gx)    | Blink              | -            | No              | ChatGPT     | No          |
+| [Opera Neon](#opera_neon)| Blink              | -            | No              | ChatGPT     | No          |
+| [Orion](#orion)          | Webkit             | -            | No              | -           | ?           |
+| [Phoebe](#phoebe)        | Webkit             | -            | No              | -           | ?           |
+| [Polypane](#polypane)    | Blink              | -            | Yes             | -           | No          |
+| [Servo](#servo)          | Servo              | -            | No              | -           | Yes         |
+| [Safari](#safari)        | Webkit             | L3           | No              | -           | No          |
+| [SigmaOS](#sigmaos)      | Webkit             | -            | Pro             | -           | ?           |
+| [Surf](#surf)            | Blink              | -            | No              | Surf        | No          |
+| [Tor](#tor)              | Tor                | -            | No              | -           | Yes         |
+| [Ulaa](#ulaa)            | Blink              | -            | No              | -           | ?           |
+| [Ungoogled](#ungoogled)  | Blink              | -            | No              | -           | Yes         |
+| [Vivaldi](#vivaldi)      | Blink              | -            | No              | -           | Yes         |
+| [Yandex](#yandex)        | Blink              | -            | No              | -           | No          |
+| [Zen](#zen)              | Gecko              | L3           | No              | -           | Yes         |
 
 ## Aloha
 
@@ -131,7 +110,8 @@ It is in fact a solid browser, not for "normal", as in "non-experienced" or "non
 - Based on chromium
 - Open source
 
-## Goole Chrome
+## Chrome
+Google Chrome
 
 ![google chrome](./images/chrome/image2.png)
 
