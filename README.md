@@ -63,6 +63,13 @@ Just a list of browsers with some metrics
 - Only security updates nowadays
 - Based on chromium
 
+### Systems Avaliable:
+
+- MacOS
+- Windows
+- Android
+- IOS
+
 ### Author's Overview
 
 It was nice while it lasted. The browser modernized browsing for many with a new design philosophy.
@@ -80,7 +87,7 @@ It was nice while it lasted. The browser modernized browsing for many with a new
 
 ### Author's Overview
 
-The browser that made google stock share fall 4% and promised: “You control what it remembers about you, how your data is used, and the privacy settings that apply while you browse.”, what was actually promised was "You control what it remembers about you when it's talking to you". This is not a browser that reinvents the web, the first of a kind that allows the user to create a "sexy firefighter calendar picture" (see below) of themselves. It does the same thing that most browsers already do, and as always, using chromium as their base.
+The browser that made google stock share fall 4% and promised: “You control what it remembers about you, how your data is used, and the privacy settings that apply while you browse.”, what was actually promised was "You control what it remembers about you _when it's talking to you_". This is not a browser that reinvents the web or the first that allows the user to create a "sexy firefighter calendar picture" (see below) of themselves. It does the same thing that most browsers already do, and as always, using chromium as their base.
 
 <img width="409" alt="x post screenshot of a 'slop' image created by Sam Altman (OpenAI CEO)" src="https://github.com/user-attachments/assets/2184a840-08b9-4300-96bd-02fe5211ef30" />
 
@@ -112,8 +119,18 @@ It is in fact a solid browser, not for "normal", as in "non-experienced" or "non
 - Unstoppable domains support
 - Custom local AI models support
 - AI featured browser
+- Integrated VPN
+- Integrated ad-blockers
 - Based on chromium
 - Open source
+
+### Avaliable Systems:
+
+- MacOS
+- Linux
+- Windows
+- Android
+- IOS
 
 ## Chrome
 Google Chrome
@@ -126,6 +143,14 @@ Google Chrome
 - AI featured browser
 - Blink engine
 - Vertical tabs
+
+### Avaliable Sistems:
+
+- MacOS
+- Linux
+- Windows
+- Android
+- IOS
 
 ### Author's Overview
 
@@ -160,6 +185,14 @@ The browser from the company that is banking the web. Mozilla wouldn't exist if 
 - AI featured browser
 - Based on chromium
 
+### Avaliable Systems:
+
+- MacOS
+- Linux
+- Windows
+- Android
+- IOS
+
 ## Falkon
 
 ! having problems with compilation on macos
@@ -178,9 +211,22 @@ The browser from the company that is banking the web. Mozilla wouldn't exist if 
 - AI featured browser
 - Geckgo engine
 
+### Avaliable Systems:
+
+- MacOS
+- Linux
+- Windows
+- Android
+- IOS
+
 ## Floorp
 
 ![floorp overview](./images/floorp/image5.png)
+
+### General Info:
+
+- Based on Firefox
+- Open Source
 
 ## Flow
 
@@ -236,6 +282,12 @@ The second browser impressed me way more than the first one since creating a bro
 - Open source
 - Libweb engine
 
+### Systems Avaiable:
+
+- MacOS
+- Linux
+- SerenityOS
+
 ## Librewolf
 
 ![librewolf overview](./images/librewolf/image1.png)
@@ -290,7 +342,6 @@ A browser for gamers
 ### General Info:
 
 - Webkit engine
-- Works for linux
 
 ## Phoebe
 
@@ -325,7 +376,7 @@ A browser for gamers
 
 - Open Source
 - Not viable for daily usage
-- Servo engine
+- Has it's own engine, Servo
 
 ## SigmaOS
 
@@ -366,7 +417,7 @@ A browser for gamers
 
 ![ulaa ovewview](./images/ulaa/image1.png)
 
-## Ungoogled Chromium
+## Ungoogled
 
 ![ungoogled chromium overview](./images/ungoogled_chromium/image2.png)
 
@@ -400,6 +451,23 @@ A browser for gamers
 
 ![zen overview](./images/zen/image1.png)
 
+### General Info:
+
+- Mods support ([native](https://zen-browser.app/mods/) or [sine](https://github.com/CosmoCreeper/Sine))
+- Vertical tabs
+- Based on firefox
+- Open source
+
+### Systems Avaiable:
+
+- MacOS
+- Linux
+- Windows
+
 ### Patches:
 
 - betterfox.js
+
+### Author's Overview
+
+built by the community for the community
