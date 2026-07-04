@@ -10,6 +10,7 @@ Just a list of browsers with some metrics
 |--------------------------|--------------------|--------------|-----------------|-------------|-------------|
 | [Aloha](#aloha)          | Blink              | L3           | No              | -           | ?           |
 | [Arc](#arc)              | Blink              | L3           | No              | -           | No          |
+| [Aside](#aside)          | Blink.             | L3           | Freemium        | ChatGPT     | No          |
 | [Atlas](#atlas)          | Blink              | L3           | No              | ChatGPT     | No          |
 | [Basilisk](#basilisk)    | Gecko              | -            | No              | -           | Yes         |
 | [Brave](#brave)          | Blink              | -            | No              | Leo         | Yes         |
@@ -73,6 +74,15 @@ Just a list of browsers with some metrics
 ### Author's Overview
 
 It was nice while it lasted. The browser modernized browsing for many with a new design philosophy.
+
+## Aside
+
+![aside overview](./images/aside/aside_main.png)
+
+### General Info
+
+- Closed source
+- Based on chromium
 
 ## Atlas
 
