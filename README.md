@@ -13,7 +13,8 @@ Just a list of browsers with some metrics
 | [Aside](#aside)          | Blink.             | L3           | Freemium        | ChatGPT     | No          |
 | [Atlas](#atlas)          | Blink              | L3           | No              | ChatGPT     | No          |
 | [Basilisk](#basilisk)    | Gecko              | -            | No              | -           | Yes         |
-| [Brave](#brave)          | Blink              | -            | No              | Leo         | Yes         |
+| [Brave](#brave)          | Blink              | L3           | No              | Leo         | Yes         |
+| [Brave Origin](#brave)   | Blink              | L3.          | Yes             | -           | Yes         |
 | [Chrome](#chrome)        | Blink              | L3           | No              | Gemini      | No          |
 | Chromium                 | Blink              | L3           | No              | Gemini      | Yes         |
 | [Dia](#dia)              | Blink              | -            | No              | Dia         | No          |
@@ -133,6 +134,9 @@ It is in fact a solid browser, not for "normal", as in "non-experienced" or "non
 - Integrated ad-blockers
 - Based on chromium
 - Open source
+
+## Origin
+This is a custom build of brave with the flag `--gn-gen-args='is_brave_origin_branded=true'`. A "premium" version of Brave with strip down features. Paid on most platforms except on linux.
 
 ### Avaliable Systems:
 
