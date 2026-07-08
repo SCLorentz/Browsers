@@ -14,7 +14,7 @@ Just a list of browsers with some metrics
 | [Atlas](#atlas)          | Blink              | L3           | No              | ChatGPT     | No          |
 | [Basilisk](#basilisk)    | Gecko              | -            | No              | -           | Yes         |
 | [Brave](#brave)          | Blink              | L3           | No              | Leo         | Yes         |
-| [Brave Origin](#brave)   | Blink              | L3.          | Yes             | -           | Yes         |
+| [Brave Origin](#brave)   | Blink              | L3           | Yes             | -           | Yes         |
 | [Chrome](#chrome)        | Blink              | L3           | No              | Gemini      | No          |
 | Chromium                 | Blink              | L3           | No              | Gemini      | Yes         |
 | [Dia](#dia)              | Blink              | -            | No              | Dia         | No          |
@@ -25,6 +25,7 @@ Just a list of browsers with some metrics
 | [Firefox](#firefox)      | Gecko              | L3           | No              | ?           | Yes         |
 | [Floorp](#floorp)        | Gecko              | -            | No              | -           | Yes         |
 | [Flow](#flow)            | Blink/Flow         | -            | No              | -           | ?           |
+| [Glass](#glass)          | Blink              | ?            | No              | ?           | Yes         |
 | [Helium](#helium)        | Blink              | -            | No              | -           | Yes         |
 | [Ladybird](#ladybird)    | LibWeb             | -            | No              | -           | Yes         |
 | [LibreWolf](#librewolf)  | Geckgo             | -            | No              | -           | Yes         |
@@ -266,6 +267,21 @@ avaliable on https://www.ekioh.com/blog/, accessed on Sat 21 Feb
 A proprietary browser that "draws HTML elements directly on the GPU" accordingly to it's official website.
 
 The second browser impressed me way more than the first one since creating a browser engine from scratch isn't a simple thing, but it's more used for embedded systems and it's closed source. The binaries are only avaliable for raspberry pi.
+
+## Glass
+
+https://glassapp.dev/
+
+![Glass Overview](./images/glass/overview.png)
+
+## General Info:
+- Open Source
+- IDE, Terminal and Browser
+- Based on Zed IDE
+
+### General Info:
+
+With limited testing time, I strongly belive that this can be a great tool. Personally, I feel appealed for this app core idea.
 
 ## Helium
 
