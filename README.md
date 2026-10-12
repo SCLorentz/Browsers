@@ -10,13 +10,14 @@ Just a list of browsers with some metrics
 |--------------------------|--------------------|--------------|-----------------|-------------|-------------|--------------|
 | [Aloha](#aloha)          | Blink              | No           | No              | …           | ?           | …            |
 | [Arc](#arc)              | Blink              | L3           | No              | …           | No          | Discontinued |
-| [Aside](#aside)          | Blink.             | L3           | Freemium        | ChatGPT     | No          | …            |
+| [Aside](#aside)          | Blink.             | L3           | Yes             | ChatGPT     | No          | …            |
 | [Atlas](#atlas)          | Blink              | L3           | No              | ChatGPT     | No          | Discontinued |
 | [Basilisk](#basilisk)    | Gecko              | …            | No              | …           | Yes         | …            |
 | [Brave](#brave)          | Blink              | L3           | No              | Leo         | Yes         | …            |
 | [Brave Origin](#brave)   | Blink              | L3           | Yes             | No          | Yes         | …            |
 | [Chrome](#chrome)        | Blink              | L3           | No              | Gemini      | No          | …            |
 | Chromium                 | Blink              | No           | No              | Gemini      | Yes         | …            |
+| [Crest](#crest)          | Blink              | No           | No              | …           | Yes         | …            |
 | [Dia](#dia)              | Blink              | No           | No              | Dia         | No          | …            |
 | [DDG](#duckduckgo)       | Blink              | !            | No              | Duck AI     | Yes         | …            |
 | [Edge](#edge)            | Blink              | L3           | No              | Copilot     | No          | …            |
@@ -38,6 +39,7 @@ Just a list of browsers with some metrics
 | [Phoebe](#phoebe)        | Webkit             | …            | No              | …           | ?           | …            |
 | [Polypane](#polypane)    | Blink              | …            | Yes             | …           | No          | …            |
 | [Servo](#servo)          | Servo              | No           | No              | …           | Yes         | …            |
+| [Shift](#shift)          | Blink              | No           | Yes             | …           | No          | …            |
 | [Safari](#safari)        | Webkit             | L3           | No              | …           | No          | …            |
 | [SigmaOS](#sigmaos)      | Webkit             | …            | Pro             | …           | ?           | …            |
 | [Surf](#surf)            | Blink              | No           | No              | Surf        | No          | …            |
@@ -154,9 +156,9 @@ Google Chrome
 
 ### General Info:
 
-- Closed source __(google chrome differs from chromium)__
+- Closed source
 - AI featured browser
-- Blink engine
+- Based on Chromium
 - Vertical tabs
 
 ### Avaliable Sistems:
@@ -170,6 +172,15 @@ Google Chrome
 ### Author's Overview
 
 The browser from the company that is banking the web. Mozilla wouldn't exist if it wasn't for google's donations. Google chrome is the best option for somewhone who just wants their job done. Of course, they are also responsible to control how the web works since they control 68% of the browser market share and other browsers comply or get behind ([for example, the manifest v3 situation](https://developer.chrome.com/docs/extensions/develop/migrate/what-is-mv3))
+
+## Crests
+
+![crest](./images/crest/first_view.png)
+
+### General Info:
+
+- Open source
+- Based on Chromium
 
 ## Dia
 
@@ -407,6 +418,15 @@ A browser for gamers
 - Open Source
 - Not viable for daily usage
 - Has it's own engine, Servo
+
+## Shift
+
+![shift overview](./images/shift/first_view.png)
+
+### General Info:
+
+- Closed source
+- Based on Chromium
 
 ## SigmaOS
 
