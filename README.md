@@ -39,7 +39,7 @@ Just a list of browsers with some metrics
 | [Phoebe](#phoebe)        | Webkit             | …            | No              | …           | ?           | …            |
 | [Polypane](#polypane)    | Blink              | …            | Yes             | …           | No          | …            |
 | [Servo](#servo)          | Servo              | No           | No              | …           | Yes         | …            |
-| [Shift](#shift)          | Blink              | No           | Yes             | …           | No          | …            |
+| [Shift](#shift)          | Blink              | No           | Yes             | …           | Yes         | …            |
 | [Safari](#safari)        | Webkit             | L3           | No              | …           | No          | …            |
 | [SigmaOS](#sigmaos)      | Webkit             | …            | Pro             | …           | ?           | …            |
 | [Surf](#surf)            | Blink              | No           | No              | Surf        | No          | …            |
