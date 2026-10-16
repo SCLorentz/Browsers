@@ -229,7 +229,7 @@ The browser from the company that is banking the web. Mozilla wouldn't exist if 
 
 ## Firefox
 
-![firefox overview](./images/firefox/image4.png)
+![firefox overview](./images/firefox/overview.png)
 
 ### General Info:
 
