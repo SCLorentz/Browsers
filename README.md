@@ -30,7 +30,7 @@ Just a list of browsers with some metrics
 | [Glass](#glass)          | Blink              | No           | No              | No          | Yes         | …            |
 | [Helium](#helium)        | Blink              | …            | No              | No          | Yes         | Discontinued |
 | [Ladybird](#ladybird)    | LibWeb             | No           | No              | No          | Yes         | Early Dev.   |
-| [LibreWolf](#librewolf)  | gecko              | Plugin       | No              | No          | Yes         | …            |
+| [LibreWolf](#librewolf)  | Gecko              | Plugin       | No              | No          | Yes         | …            |
 | [NetSurf](#netsurf)      | NetSurf            | No           | No              | …           | Yes         | ?            |
 | [Opera](#opera)          | Blink              | L3           | No              | ChatGPT     | No          | …            |
 | [Opera Air](#opera_air)  | Blink              | L3           | No              | ChatGPT     | No          | …            |
