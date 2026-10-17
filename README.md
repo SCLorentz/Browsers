@@ -12,7 +12,8 @@ Just a list of browsers with some metrics
 | [Arc](#arc)              | Blink              | L3           | No              | …           | No          | Discontinued |
 | [Aside](#aside)          | Blink.             | L3           | Yes             | ChatGPT     | No          | …            |
 | [Atlas](#atlas)          | Blink              | L3           | No              | ChatGPT     | No          | Discontinued |
-| [Basilisk](#basilisk)    | Gecko              | …            | No              | …           | Yes         | …            |
+| [Basilisk](#basilisk)    | Gecko              | No           | No              | …           | Yes         | …            |
+| [Blanc](#blanc)          | Blink              | No           | No              | …           | Yes         | …            |
 | [Brave](#brave)          | Blink              | L3           | No              | Leo         | Yes         | …            |
 | [Brave Origin](#brave)   | Blink              | L3           | Yes             | No          | Yes         | …            |
 | [Chrome](#chrome)        | Blink              | L3           | No              | Gemini      | No          | …            |
@@ -122,6 +123,10 @@ https://www.theguardian.com/technology/2025/oct/21/openai-chatgpt-web-browser-at
 ### Author's Overview
 
 It is in fact a solid browser, not for "normal", as in "non-experienced" or "non-developers" users, but a niche for the indie-web. The team behind it's keeping a lot of legacy features alive while still supporting modern browser features.
+
+## Blanc
+
+![blanc overview](./images/blanc/overview.png)
 
 ## Brave
 
