@@ -26,9 +26,9 @@ Just a list of browsers with some metrics
 | [Falkon](#falkon)        | QtWebEngine (Blink)| No           | No              | …           | Yes         | …            |
 | [Firefox](#firefox)      | Gecko              | Plugin       | No              | Local       | Yes         | …            |
 | [Floorp](#floorp)        | Gecko              | Plugin       | No              | …           | Yes         | …            |
-| [Flow](#flow)            | Blink/Flow         | …            | No              | …           | ?           | …            |
+| [Flow](#flow)            | Blink.             | No           | No              | …           | ?           | …            |
 | [Glass](#glass)          | Blink              | No           | No              | No          | Yes         | …            |
-| [Helium](#helium)        | Blink              | …            | No              | No          | Yes         | Discontinued |
+| [Helium](#helium)        | Blink              | No           | No              | No          | Yes         | Discontinued |
 | [Ladybird](#ladybird)    | LibWeb             | No           | No              | No          | Yes         | Early Dev.   |
 | [LibreWolf](#librewolf)  | Gecko              | Plugin       | No              | No          | Yes         | …            |
 | [NetSurf](#netsurf)      | NetSurf            | No           | No              | …           | Yes         | ?            |
@@ -37,7 +37,7 @@ Just a list of browsers with some metrics
 | [Opera GX](#opera_gx)    | Blink              | L3           | No              | ChatGPT     | No          | …            |
 | [Opera Neon](#opera_neon)| Blink              | L3           | No              | ChatGPT     | No          | …            |
 | [Orion](#orion)          | Webkit             | …            | No              | …           | ?           | …            |
-| [Phoebe](#phoebe)        | Webkit             | …            | No              | …           | ?           | …            |
+| [Phoebe](#phoebe)        | Webkit             | No           | No              | …           | ?           | …            |
 | [Polypane](#polypane)    | Blink              | …            | Yes             | …           | No          | …            |
 | [Servo](#servo)          | Servo              | No           | No              | …           | Yes         | …            |
 | [Shift](#shift)          | Blink              | No           | Yes             | …           | Yes         | …            |
@@ -45,7 +45,7 @@ Just a list of browsers with some metrics
 | [SigmaOS](#sigmaos)      | Webkit             | …            | Pro             | …           | ?           | …            |
 | [Surf](#surf)            | Blink              | No           | No              | Surf        | No          | …            |
 | [Tor](#tor)              | Gecko              | Plugin       | No              | …           | Yes         | …            |
-| [Ulaa](#ulaa)            | Blink              | …            | No              | …           | ?           | …            |
+| [Ulaa](#ulaa)            | Blink              | No           | No              | …           | ?           | …            |
 | [Ungoogled](#ungoogled)  | Blink              | No           | No              | …           | Yes         | …            |
 | [Vivaldi](#vivaldi)      | Blink              | Yes          | No              | …           | Yes         | …            |
 | [Yandex](#yandex)        | Blink              | No           | No              | …           | No          | …            |
