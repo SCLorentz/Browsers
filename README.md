@@ -30,7 +30,7 @@ Just a list of browsers with some metrics
 | [Glass](#glass)          | Blink              | No           | No              | No          | Yes         | …            |
 | [Helium](#helium)        | Blink              | …            | No              | No          | Yes         | Discontinued |
 | [Ladybird](#ladybird)    | LibWeb             | No           | No              | No          | Yes         | Early Dev.   |
-| [LibreWolf](#librewolf)  | Geckgo             | Plugin       | No              | No          | Yes         | …            |
+| [LibreWolf](#librewolf)  | gecko              | Plugin       | No              | No          | Yes         | …            |
 | [NetSurf](#netsurf)      | NetSurf            | No           | No              | …           | Yes         | ?            |
 | [Opera](#opera)          | Blink              | L3           | No              | ChatGPT     | No          | …            |
 | [Opera Air](#opera_air)  | Blink              | L3           | No              | ChatGPT     | No          | …            |
@@ -240,7 +240,7 @@ The browser from the company that is banking the web. Mozilla wouldn't exist if 
 
 - Open source
 - AI featured browser
-- Geckgo engine
+- gecko engine
 
 ### Avaliable Systems:
 
