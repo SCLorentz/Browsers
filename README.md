@@ -406,7 +406,7 @@ A browser for gamers
 
 ## Safari
 
-![safari overview](./images/safari/image1.png)
+![safari overview](./images/safari/overview.png)
 
 ### General Info:
 
