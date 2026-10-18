@@ -49,7 +49,7 @@ Status -> Fast Pacing: 1 | Slow Development: 1 > x > 0 | Discontinued: 0
 | [NetSurf](#netsurf)      | NetSurf            | No           | No              | 💻       | …           |        | Yes         | ?            |       |
 | [Opera](#opera)          | Blink              | L3           | No              | ✅       | ChatGPT     |        | No          | …            |       |
 | [Opera Air](#opera_air)  | Blink              | L3           | No              | ✅       | ChatGPT     |        | No          | …            |       |
-| [Opera GX](#opera_gx)    | Blink              | L3           | No              | ✅       | ChatGPT     |        | No          | …            |       |
+| [Opera GX](#opera_gx)    | Blink              | L3           | No              | ✅       | ChatGPT     | 36.3   | No          | …            |       |
 | [Opera Neon](#opera_neon)| Blink              | L3           | No              | ✅       | ChatGPT     |        | No          | …            |       |
 | [Orion](#orion)          | Webkit             | …            | No              | 💻       | …           |        | ?           | …            |       |
 | [Phoebe](#phoebe)        | Webkit             | No           | No              | 💻       | …           |        | ?           | …            |       |
