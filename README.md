@@ -227,7 +227,7 @@ Why is my browser taking
 
 ## Edge
 
-![edge overview](./images/edge/image7.png)
+![edge overview](./images/edge/overview.png)
 
 ### General Info:
 
