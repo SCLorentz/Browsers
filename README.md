@@ -1,55 +1,70 @@
 # Browsers
 Just a list of browsers with some metrics
 
-- ~61,11% of the browsers here are chromium based
-- ~16,67% are based on firefox
-- ~13,89% use webkit
-- ~8,33 have their own engine
+Speed metrics:
+https://browserbench.org/Speedometer3.1/ (no custom flags, MacOS 27, M3 macbook air)
 
-| Browser                  | Engine             | Widevine DRM | Paid / Premium  | AI featured | Open Source | Status       |
-|--------------------------|--------------------|--------------|-----------------|-------------|-------------|--------------|
-| [Aloha](#aloha)          | Blink              | No           | No              | …           | ?           | …            |
-| [Arc](#arc)              | Blink              | L3           | No              | …           | No          | Discontinued |
-| [Aside](#aside)          | Blink.             | L3           | Yes             | ChatGPT     | No          | …            |
-| [Atlas](#atlas)          | Blink              | L3           | No              | ChatGPT     | No          | Discontinued |
-| [Basilisk](#basilisk)    | Gecko              | No           | No              | …           | Yes         | …            |
-| [Blanc](#blanc)          | Blink              | No           | No              | …           | Yes         | …            |
-| [Brave](#brave)          | Blink              | L3           | No              | Leo         | Yes         | …            |
-| [Brave Origin](#brave)   | Blink              | L3           | Yes             | No          | Yes         | …            |
-| [Chrome](#chrome)        | Blink              | L3           | No              | Gemini      | No          | …            |
-| Chromium                 | Blink              | No           | No              | Gemini      | Yes         | …            |
-| [Crest](#crest)          | Blink              | No           | No              | …           | Yes         | …            |
-| [Dia](#dia)              | Blink              | No           | No              | Dia         | No          | …            |
-| [DDG](#duckduckgo)       | Blink              | !            | No              | Duck AI     | Yes         | …            |
-| [Edge](#edge)            | Blink              | L3           | No              | Copilot     | No          | …            |
-| [Epiphany](#epiphany)    | WebKitGTK          | No           | No              | …           | Yes         | …            |
-| [Falkon](#falkon)        | QtWebEngine (Blink)| No           | No              | …           | Yes         | …            |
-| [Firefox](#firefox)      | Gecko              | Plugin       | No              | Local       | Yes         | …            |
-| [Floorp](#floorp)        | Gecko              | Plugin       | No              | …           | Yes         | …            |
-| [Flow](#flow)            | Blink.             | No           | No              | …           | ?           | …            |
-| [Glass](#glass)          | Blink              | No           | No              | No          | Yes         | …            |
-| [Helium](#helium)        | Blink              | No           | No              | No          | Yes         | Discontinued |
-| [Ladybird](#ladybird)    | LibWeb             | No           | No              | No          | Yes         | Early Dev.   |
-| [LibreWolf](#librewolf)  | Gecko              | Plugin       | No              | No          | Yes         | …            |
-| [NetSurf](#netsurf)      | NetSurf            | No           | No              | …           | Yes         | ?            |
-| [Opera](#opera)          | Blink              | L3           | No              | ChatGPT     | No          | …            |
-| [Opera Air](#opera_air)  | Blink              | L3           | No              | ChatGPT     | No          | …            |
-| [Opera GX](#opera_gx)    | Blink              | L3           | No              | ChatGPT     | No          | …            |
-| [Opera Neon](#opera_neon)| Blink              | L3           | No              | ChatGPT     | No          | …            |
-| [Orion](#orion)          | Webkit             | …            | No              | …           | ?           | …            |
-| [Phoebe](#phoebe)        | Webkit             | No           | No              | …           | ?           | …            |
-| [Polypane](#polypane)    | Blink              | …            | Yes             | …           | No          | …            |
-| [Servo](#servo)          | Servo              | No           | No              | …           | Yes         | …            |
-| [Shift](#shift)          | Blink              | No           | Yes             | …           | Yes         | …            |
-| [Safari](#safari)        | Webkit             | L3           | No              | …           | No          | …            |
-| [SigmaOS](#sigmaos)      | Webkit             | …            | Pro             | …           | ?           | …            |
-| [Surf](#surf)            | Blink              | No           | No              | Surf        | No          | …            |
-| [Tor](#tor)              | Gecko              | Plugin       | No              | …           | Yes         | …            |
-| [Ulaa](#ulaa)            | Blink              | No           | No              | …           | ?           | …            |
-| [Ungoogled](#ungoogled)  | Blink              | No           | No              | …           | Yes         | …            |
-| [Vivaldi](#vivaldi)      | Blink              | Yes          | No              | …           | Yes         | …            |
-| [Yandex](#yandex)        | Blink              | No           | No              | …           | No          | …            |
-| [Zen](#zen)              | Gecko              | Plugin       | No              | …           | Yes         | …            |
+DRM -> Yes: 1 | No: 0
+OSS -> Yes: 1 | No: 0
+Status -> Fast Pacing: 1 | Slow Development: 1 > x > 0 | Discontinued: 0
+
+(DRM + Speed + OSS) * Status
+
+🍎 - Apple
+🤖 - Android
+🐧 - Linux
+🪟 - Windows
+✳️ - Proprietary desktop (MacOS and Windows)
+❇️ - All proprietary platforms (IOS, MacOS, Windows and Android)
+💾 - Unix platforms (mostly MacOS, Linux and BSD)
+💻 - All desktop platforms
+✅ - All major platforms
+
+| Browser                  | Engine             | Widevine DRM | Paid / Premium  | OS       | AI featured | Speed  | Open Source | Status       |
+|--------------------------|--------------------|--------------|-----------------|----------|-------------|--------|-------------|--------------|
+| [Aloha](#aloha)          | Blink              | No           | No              | ✅       | …           | 40.6   | No          | …            |
+| [Angelfish](#angelfish)  | QtWebEngine (Blink)| No           | No              | 🐧       | …           |        | Yes         | …            |
+| [Arc](#arc)              | Blink              | L3           | No              | ❇️       | …           |        | No          | Discontinued |
+| [Aside](#aside)          | Blink              | L3           | Yes             | ✳️       | ChatGPT     |        | No          | …            |
+| [Atlas](#atlas)          | Blink              | L3           | No              | ✳️       | ChatGPT     |        | No          | Discontinued |
+| [Basilisk](#basilisk)    | Gecko              | No           | No              | 💻       | …           |        | Yes         | …            |
+| [Blanc](#blanc)          | Blink              | No           | No              | 💻       | …           |        | Yes         | …            |
+| [Brave](#brave)          | Blink              | L3           | No              | ✅       | Leo         |        | Yes         | …            |
+| [Brave Origin](#brave)   | Blink              | L3           | Yes             | ✅       | No          |        | Yes         | …            |
+| [Chrome](#chrome)        | Blink              | L3           | No              | ✅       | Gemini      |        | No          | …            |
+| Chromium                 | Blink              | No           | No              | ✅       | Gemini      |        | Yes         | …            |
+| [Crest](#crest)          | Blink              | No           | No              | 🍎       | …           |        | Yes         | …            |
+| [Dia](#dia)              | Blink              | No           | No              | ✳️       | Dia         |        | No          | …            |
+| [DDG](#duckduckgo)       | Blink              | !            | No              | ❇️       | Duck AI     |        | Yes         | …            |
+| [Edge](#edge)            | Blink              | L3           | No              | ✅       | Copilot     |        | No          | …            |
+| [Epiphany](#epiphany)    | WebKitGTK          | No           | No              | 🐧       | …           |        | Yes         | …            |
+| [Falkon](#falkon)        | QtWebEngine (Blink)| No           | No              | 🐧       | …           |        | Yes         | …            |
+| [Firefox](#firefox)      | Gecko              | Plugin       | No              | ✅       | Local       |        | Yes         | …            |
+| [Floorp](#floorp)        | Gecko              | Plugin       | No              | 💻       | …           |        | Yes         | …            |
+| [Flow](#flow)            | Blink              | No           | No              | 💻       | …           |        | Yes         | …            |
+| [Glass](#glass)          | Blink              | No           | No              | ✅       | No          |        | Yes         | …            |
+| [Helium](#helium)        | Blink              | No           | No              | 💻       | No          | 49.1   | Yes         | Discontinued |
+| [Ladybird](#ladybird)    | LibWeb             | No           | No              | 💾       | No          |        | Yes         | Early Dev.   |
+| [LibreWolf](#librewolf)  | Gecko              | Plugin       | No              | 💻       | No          |        | Yes         | …            |
+| [NetSurf](#netsurf)      | NetSurf            | No           | No              | 💻       | …           |        | Yes         | ?            |
+| [Opera](#opera)          | Blink              | L3           | No              | ✅       | ChatGPT     |        | No          | …            |
+| [Opera Air](#opera_air)  | Blink              | L3           | No              | ✅       | ChatGPT     |        | No          | …            |
+| [Opera GX](#opera_gx)    | Blink              | L3           | No              | ✅       | ChatGPT     |        | No          | …            |
+| [Opera Neon](#opera_neon)| Blink              | L3           | No              | ✅       | ChatGPT     |        | No          | …            |
+| [Orion](#orion)          | Webkit             | …            | No              | 💻       | …           |        | ?           | …            |
+| [Phoebe](#phoebe)        | Webkit             | No           | No              | 💻       | …           |        | ?           | …            |
+| [Polypane](#polypane)    | Blink              | …            | Yes             | 💻       | …           |        | No          | …            |
+| [Servo](#servo)          | Servo              | No           | No              | 💻       | …           |        | Yes         | …            |
+| [Shift](#shift)          | Blink              | No           | Yes             | ✳️       | …           |        | Yes         | …            |
+| [Safari](#safari)        | Webkit             | L3           | No              | 🍎       | …           | 50.7   | No          | …            |
+| [SigmaOS](#sigmaos)      | Webkit             | …            | Pro             | 🍎       | …           |        | ?           | …            |
+| [Deta Surf](#surf)       | Blink              | No           | No              | 💻       | Surf        |        | No          | …            |
+| [Tor](#tor)              | Gecko              | Plugin       | No              | ✅       | …           |        | Yes         | …            |
+| [Ulaa](#ulaa)            | Blink              | No           | No              | ✅       | …           |        | ?           | …            |
+| [Ungoogled](#ungoogled)  | Blink              | No           | No              | 💻       | …           | 51.4   | Yes         | …            |
+| [Vivaldi](#vivaldi)      | Blink              | Yes          | No              | ✅       | …           |        | Yes         | …            |
+| [Yandex](#yandex)        | Blink              | No           | No              | ✅       | …           |        | No          | …            |
+| [Zen](#zen)              | Gecko              | Plugin       | No              | 💻       | …           |        | Yes         | …            |
 
 ## Aloha
 
