@@ -4,20 +4,20 @@ Just a list of browsers with some metrics
 Speed metrics:
 https://browserbench.org/Speedometer3.1/ (no custom flags, MacOS 27, M3 macbook air)
 
-DRM -> Yes: 1 | No: 0
+<!-- DRM -> Yes: 1 | No: 0
 OSS -> Yes: 1 | No: 0
 Status -> Fast Pacing: 1 | Slow Development: 1 > x > 0 | Discontinued: 0
 
-(DRM + Speed + OSS) * Status
+(DRM + Speed + OSS) * Status-->
 
-🍎 - Apple
-🤖 - Android
-🐧 - Linux
-🪟 - Windows
-✳️ - Proprietary desktop (MacOS and Windows)
-❇️ - All proprietary platforms (IOS, MacOS, Windows and Android)
-💾 - Unix platforms (mostly MacOS, Linux and BSD)
-💻 - All desktop platforms
+🍎 - Apple \
+🤖 - Android \
+🐧 - Linux \
+🪟 - Windows \
+✳️ - Proprietary desktop (MacOS and Windows) \
+❇️ - All proprietary platforms (IOS, MacOS, Windows and Android) \
+💾 - Unix platforms (mostly MacOS, Linux and BSD) \
+💻 - All desktop platforms \
 ✅ - All major platforms
 
 | Browser                  | Engine             | Widevine DRM | Paid / Premium  | OS       | AI featured | Speed  | Open Source | Status       |
