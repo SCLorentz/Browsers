@@ -8,7 +8,7 @@ https://browserbench.org/Speedometer3.1/ (no custom flags, MacOS 27, M3 macbook 
 OSS -> Yes: 1 | No: 0
 Status -> Fast Pacing: 1 | Slow Development: 1 > x > 0 | Discontinued: 0
 
-(DRM + Speed + OSS) * Status -->
+(DRM + Speed / Best + OSS) * Status -->
 
 🍎 - Apple \
 🤖 - Android \
@@ -27,7 +27,7 @@ Status -> Fast Pacing: 1 | Slow Development: 1 > x > 0 | Discontinued: 0
 | [Arc](#arc)              | Blink              | L3           | No              | ❇️       | …           |        | No          | Discontinued |       |
 | [Aside](#aside)          | Blink              | L3           | Yes             | ✳️       | ChatGPT     |        | No          | …            |       |
 | [Atlas](#atlas)          | Blink              | L3           | No              | ✳️       | ChatGPT     |        | No          | Discontinued |       |
-| [Basilisk](#basilisk)    | Gecko              | No           | No              | 💻       | …           |        | Yes         | …            |       |
+| [Basilisk](#basilisk)    | Goanna             | No           | No              | 💻       | …           |        | Yes         | …            |       |
 | [Blanc](#blanc)          | Blink              | No           | No              | 💻       | …           |        | Yes         | …            |       |
 | [Brave](#brave)          | Blink              | Config       | No              | ✅       | Leo         | 48.9   | Yes         | …            |       |
 | [Brave Origin](#brave)   | Blink              | Config       | Yes             | ✅       | …           | 48.9   | Yes         | …            |       |
@@ -42,11 +42,11 @@ Status -> Fast Pacing: 1 | Slow Development: 1 > x > 0 | Discontinued: 0
 | [Firefox](#firefox)      | Gecko              | Plugin       | No              | ✅       | Local       |        | Yes         | …            |       |
 | [Floorp](#floorp)        | Gecko              | Plugin       | No              | 💻       | …           |        | Yes         | …            |       |
 | [Flow](#flow)            | Blink              | No           | No              | 💻       | …           |        | Yes         | …            |       |
-| [Glass](#glass)          | Blink              | No           | No              | ✅       | No          |        | Yes         | …            |       |
-| [Helium](#helium)        | Blink              | No           | No              | 💻       | No          | 49.1   | Yes         | Discontinued |       |
+| [Glass](#glass)          | Blink              | No           | No              | ✅       | No          |        | Yes         | Discontinued |       |
+| [Helium](#helium)        | Blink              | No           | No              | 💻       | No          | 49.1   | Yes         | …            |       |
 | [Ladybird](#ladybird)    | LibWeb             | No           | No              | 💾       | No          |        | Yes         | Early Dev.   |       |
 | [LibreWolf](#librewolf)  | Gecko              | Plugin       | No              | 💻       | No          |        | Yes         | …            |       |
-| [NetSurf](#netsurf)      | NetSurf            | No           | No              | 💻       | …           |        | Yes         | ?            |       |
+| [NetSurf](#netsurf)      | NetSurf            | No           | No              | 💻       | …           |        | Yes         | …            |       |
 | [Opera](#opera)          | Blink              | L3           | No              | ✅       | ChatGPT     |        | No          | …            |       |
 | [Opera Air](#opera_air)  | Blink              | L3           | No              | ✅       | ChatGPT     |        | No          | …            |       |
 | [Opera GX](#opera_gx)    | Blink              | L3           | No              | ✅       | ChatGPT     | 36.3   | No          | …            |       |
@@ -55,12 +55,12 @@ Status -> Fast Pacing: 1 | Slow Development: 1 > x > 0 | Discontinued: 0
 | [Phoebe](#phoebe)        | Webkit             | No           | No              | 💻       | …           |        | ?           | …            |       |
 | [Polypane](#polypane)    | Blink              | …            | Yes             | 💻       | …           |        | No          | …            |       |
 | [Servo](#servo)          | Servo              | No           | No              | 💻       | …           |        | Yes         | …            |       |
-| [Shift](#shift)          | Blink              | No           | Yes             | ✳️       | …           |        | Yes         | …            |       |
+| [Shift](#shift)          | Blink              | No           | Yes             | ✳️       | …           |        | No          | …            |       |
 | [Safari](#safari)        | Webkit             | L3           | No              | 🍎       | …           | 50.7   | No          | …            |       |
-| [SigmaOS](#sigmaos)      | Webkit             | …            | Pro             | 🍎       | …           |        | ?           | …            |       |
-| [Deta Surf](#surf)       | Blink              | No           | No              | 💻       | Surf        |        | No          | …            |       |
-| [Tor](#tor)              | Gecko              | Plugin       | No              | ✅       | …           |        | Yes         | …            |       |
-| [Ulaa](#ulaa)            | Blink              | No           | No              | ✅       | …           |        | ?           | …            |       |
+| [SigmaOS](#sigmaos)      | Webkit             | …            | Yes             | 🍎       | …           |        | No          | …            |       |
+| [Surf](#surf)            | Blink              | No           | No              | 💻       | Surf        |        | Yes         | …            |       |
+| [Tor](#tor)              | Gecko              | No           | No              | ✅       | …           |        | Yes         | …            |       |
+| [Ulaa](#ulaa)            | Blink              | No           | No              | ✅       | …           |        | No          | …            |       |
 | [Ungoogled](#ungoogled)  | Blink              | No           | No              | 💻       | …           | 51.4   | Yes         | …            |       |
 | [Vivaldi](#vivaldi)      | Blink              | Yes          | No              | ✅       | …           |        | Yes         | …            |       |
 | [Yandex](#yandex)        | Blink              | No           | No              | ✅       | …           |        | No          | …            |       |
@@ -73,6 +73,12 @@ Status -> Fast Pacing: 1 | Slow Development: 1 > x > 0 | Discontinued: 0
 ### General Info:
 
 - Based on chromium
+
+## Angelfish
+
+### General Info:
+
+- Qt based
 
 ## Arc
 
@@ -142,6 +148,12 @@ It is in fact a solid browser, not for "normal", as in "non-experienced" or "non
 ## Blanc
 
 ![blanc overview](./images/blanc/overview.png)
+
+### General Info:
+
+- Based on chromium
+- Uses electron
+- Minimalistic
 
 ## Brave
 
@@ -317,12 +329,12 @@ https://glassapp.dev/
 
 ![Glass Overview](./images/glass/overview.png)
 
-## General Info:
+### General Info:
 - Open Source
 - IDE, Terminal and Browser
 - Based on Zed IDE
 
-### General Info:
+### Author's Overview
 
 With limited testing time, I strongly belive that this can be a great tool. Personally, I feel appealed for this app core idea.
 
