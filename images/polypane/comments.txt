@@ -1,4 +1,0 @@
-disabled about:// urls
-speedometer test doesn't seem valid here
-can be installed with brew
-

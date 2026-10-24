@@ -1,3 +1,0 @@
-support for both firefox and google extensions
-vertical and horizontal tabs support
-works on linux as well (webkit engine)

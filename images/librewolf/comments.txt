@@ -1,2 +1,0 @@
-can be installed via homebrew
-has a lot of security patches

@@ -43,6 +43,7 @@ Status -> Fast Pacing: 1 | Slow Development: 1 > x > 0 | Discontinued: 0
 | [Floorp](#floorp)        | Gecko              | Plugin       | No              | 💻       | …           |        | Yes         | …            |       |
 | [Flow](#flow)            | Blink              | No           | No              | 💻       | …           |        | Yes         | …            |       |
 | [Glass](#glass)          | Blink              | No           | No              | ✅       | No          |        | Yes         | Discontinued |       |
+| [Growser](#growser)      | Blink              | No           | No              | ✅       | No          | 50.1   | Yes         | …            |       |
 | [Helium](#helium)        | Blink              | No           | No              | 💻       | No          | 49.1   | Yes         | …            |       |
 | [Ladybird](#ladybird)    | LibWeb             | No           | No              | 💾       | No          |        | Yes         | Early Dev.   |       |
 | [LibreWolf](#librewolf)  | Gecko              | Plugin       | No              | 💻       | No          |        | Yes         | …            |       |
@@ -52,6 +53,7 @@ Status -> Fast Pacing: 1 | Slow Development: 1 > x > 0 | Discontinued: 0
 | [Opera GX](#opera_gx)    | Blink              | L3           | No              | ✅       | ChatGPT     | 36.3   | No          | …            |       |
 | [Opera Neon](#opera_neon)| Blink              | L3           | No              | ✅       | ChatGPT     |        | No          | …            |       |
 | [Orion](#orion)          | Webkit             | …            | No              | 💻       | …           |        | ?           | …            |       |
+| [Phi](#phi)              | Blink              | No           | No              | ✳️       | Multiple    |        | Yes         | …            |       |
 | [Phoebe](#phoebe)        | Webkit             | No           | No              | 💻       | …           |        | ?           | …            |       |
 | [Polypane](#polypane)    | Blink              | …            | Yes             | 💻       | …           |        | No          | …            |       |
 | [Servo](#servo)          | Servo              | No           | No              | 💻       | …           |        | Yes         | …            |       |
@@ -63,12 +65,13 @@ Status -> Fast Pacing: 1 | Slow Development: 1 > x > 0 | Discontinued: 0
 | [Ulaa](#ulaa)            | Blink              | No           | No              | ✅       | …           |        | No          | …            |       |
 | [Ungoogled](#ungoogled)  | Blink              | No           | No              | 💻       | …           | 51.4   | Yes         | …            |       |
 | [Vivaldi](#vivaldi)      | Blink              | Yes          | No              | ✅       | …           |        | Yes         | …            |       |
+| [Yab](#yab)              | Blink              | No           | No              | 🍎       | Multiple    | 16.6   | No          | …            |       |
 | [Yandex](#yandex)        | Blink              | No           | No              | ✅       | …           |        | No          | …            |       |
 | [Zen](#zen)              | Gecko              | Plugin       | No              | 💻       | …           | 40.6   | Yes         | …            |       |
 
 ## Aloha
 
-![aloha overview](./images/aloha/image1.png)
+![aloha overview](./images/aloha/image1.avif)
 
 ### General Info:
 
@@ -82,7 +85,7 @@ Status -> Fast Pacing: 1 | Slow Development: 1 > x > 0 | Discontinued: 0
 
 ## Arc
 
-![arc overview](./images/arc/image2.png)
+![arc overview](./images/arc/overview.avif)
 
 ### General Info:
 
@@ -103,7 +106,7 @@ It was nice while it lasted. The browser modernized browsing for many with a new
 
 ## Aside
 
-![aside overview](./images/aside/aside_main.png)
+![aside overview](./images/aside/overview.avif)
 
 ### General Info
 
@@ -112,7 +115,7 @@ It was nice while it lasted. The browser modernized browsing for many with a new
 
 ## Atlas
 
-![atlas overview](./images/atlas/image_7.png)
+![atlas overview](./images/atlas/overview.avif)
 
 ### General Info:
 
@@ -132,7 +135,7 @@ https://www.theguardian.com/technology/2025/oct/21/openai-chatgpt-web-browser-at
 
 ## Basilisk
 
-![basilisk overview](./images/basilisk/image2.png)
+![basilisk overview](./images/basilisk/overview.avif)
 
 ### General Info:
 
@@ -147,7 +150,7 @@ It is in fact a solid browser, not for "normal", as in "non-experienced" or "non
 
 ## Blanc
 
-![blanc overview](./images/blanc/overview.png)
+![blanc overview](./images/blanc/overview.avif)
 
 ### General Info:
 
@@ -157,7 +160,7 @@ It is in fact a solid browser, not for "normal", as in "non-experienced" or "non
 
 ## Brave
 
-![brave overview](./images/brave/image3.png)
+![brave overview](./images/brave/overview.avif)
 
 ### General Info:
 
@@ -184,7 +187,7 @@ This is a custom build of brave with the flag `--gn-gen-args='is_brave_origin_br
 ## Chrome
 Google Chrome
 
-![google chrome](./images/chrome/image2.png)
+![google chrome](./images/chrome/overview.avif)
 
 ### General Info:
 
@@ -207,7 +210,7 @@ The browser from the company that is banking the web. Mozilla wouldn't exist if 
 
 ## Crests
 
-![crest](./images/crest/first_view.png)
+![Crest](./images/crest/overview.avif)
 
 ### General Info:
 
@@ -216,7 +219,7 @@ The browser from the company that is banking the web. Mozilla wouldn't exist if 
 
 ## Dia
 
-![dia overview](./images/dia/image7.png)
+![Dia overview](./images/dia/overview.avif)
 
 ### General Info:
 
@@ -226,11 +229,13 @@ The browser from the company that is banking the web. Mozilla wouldn't exist if 
 
 ### Author's Overview
 
-Why is my browser taking 
+This is just bad. The size is colossal, it has memory leaks, the design had a glow down since last time I tested and, in general, it performed poorly
+
+![Dia overview](./images/dia/size.avif)
 
 ## Duckduckgo
 
-![duckduckgo overview](./images/duckduckgo/image3.png)
+![Duckduckgo overview](./images/duckduckgo/overview.avif)
 
 ### General Info:
 
@@ -239,7 +244,7 @@ Why is my browser taking
 
 ## Edge
 
-![edge overview](./images/edge/overview.png)
+![Edge overview](./images/edge/overview.avif)
 
 ### General Info:
 
@@ -273,7 +278,7 @@ Doing the https://www.browserbench.org/Speedometer3.1/ was, for some reason, pai
 
 ## Firefox
 
-![firefox overview](./images/firefox/overview.png)
+![Firefox overview](./images/firefox/overview.avif)
 
 ### General Info:
 
@@ -291,7 +296,7 @@ Doing the https://www.browserbench.org/Speedometer3.1/ was, for some reason, pai
 
 ## Floorp
 
-![floorp overview](./images/floorp/image5.png)
+![Floorp overview](./images/floorp/overview.avif)
 
 ### General Info:
 
@@ -301,7 +306,7 @@ Doing the https://www.browserbench.org/Speedometer3.1/ was, for some reason, pai
 ## Flow
 
 there is a browser named flow based on chromium avaliable for use on linux/mac/windows
-![flow overview](./images/flow/overview.png)
+![Flow overview](./images/flow/overview.avif)
 
 https://flow-browser.com/
 
@@ -327,7 +332,7 @@ The second browser impressed me way more than the first one since creating a bro
 
 https://glassapp.dev/
 
-![Glass Overview](./images/glass/overview.png)
+![Glass Overview](./images/glass/overview.avif)
 
 ### General Info:
 - Open Source
@@ -338,9 +343,15 @@ https://glassapp.dev/
 
 With limited testing time, I strongly belive that this can be a great tool. Personally, I feel appealed for this app core idea.
 
+### Growser
+
+![Growser Overview](./images/growser/overview.avif)
+
+### General Info:
+
 ## Helium
 
-![helium overview](./images/helium/image_4.png)
+![Helium overview](./images/helium/overview.avif)
 
 ### General Info:
 
@@ -358,7 +369,7 @@ With limited testing time, I strongly belive that this can be a great tool. Pers
 
 ## Ladybird
 
-![ladybird overview](./images/ladybird/image1.png)
+![Ladybird overview](./images/ladybird/overview.avif)
 
 ### General Info:
 
@@ -375,7 +386,7 @@ With limited testing time, I strongly belive that this can be a great tool. Pers
 
 ## Librewolf
 
-![librewolf overview](./images/librewolf/image1.png)
+![Librewolf overview](./images/librewolf/overview.avif)
 
 ### General Info:
 
@@ -388,7 +399,7 @@ With limited testing time, I strongly belive that this can be a great tool. Pers
 
 ## Opera
 
-![opera overview](./images/opera/image4.png)
+![Opera overview](./images/opera/overview.avif)
 
 ### General Info:
 
@@ -398,7 +409,7 @@ With limited testing time, I strongly belive that this can be a great tool. Pers
 
 ## Opera Air
 
-![opera air overview](./images/opera_air/image4.png)
+![Opera air overview](./images/opera_air/overview.avif)
 
 ### General Info:
 
@@ -408,7 +419,7 @@ With limited testing time, I strongly belive that this can be a great tool. Pers
 
 ## Opera GX
 
-![opera gx overview](./images/opera_gx/image2.png)
+![Opera GX overview](./images/opera_gx/overview.avif)
 
 ### General Info:
 
@@ -422,19 +433,25 @@ A browser for gamers
 
 ## Orion
 
-![orion overview](./images/orion/image1.png)
+![Orion overview](./images/orion/overview.avif)
 
 ### General Info:
 
 - Webkit engine
 
+## Phi
+
+![Phi overview](./images/phi/overview.avif)
+
+### General Info:
+
 ## Phoebe
 
-![phoebe overview](./images/phoebe/image3.png)
+![Phoebe overview](./images/phoebe/overview.avif)
 
 ## Polypane
 
-![polypane overview](./images/polypane/image2.png)
+![Polypane overview](./images/polypane/overview.avif)
 
 ### General Info:
 
@@ -445,7 +462,7 @@ A browser for gamers
 
 ## Safari
 
-![safari overview](./images/safari/overview.png)
+![Safari overview](./images/safari/overview.avif)
 
 ### General Info:
 
@@ -455,7 +472,7 @@ A browser for gamers
 
 ## Servo
 
-![servo overview](./images/servo/image5.png)
+![Servo overview](./images/servo/overview.avif)
 
 ### General Info:
 
@@ -465,7 +482,7 @@ A browser for gamers
 
 ## Shift
 
-![shift overview](./images/shift/first_view.png)
+![Shift overview](./images/shift/overview.avif)
 
 ### General Info:
 
@@ -474,7 +491,7 @@ A browser for gamers
 
 ## SigmaOS
 
-![sigmaOS ovweview](./images/sigmaOS/image7.png)
+![SigmaOS ovweview](./images/sigmaOS/overview.avif)
 
 ### General Info:
 
@@ -485,7 +502,7 @@ A browser for gamers
 
 ## Surf
 
-![surf overview](./images/surf/image1.png)
+![Surf overview](./images/surf/overview.avif)
 
 ### General Info:
 
@@ -494,7 +511,7 @@ A browser for gamers
 
 ## Tor
 
-![tor overview](./images/tor/image1.png)
+![Tor overview](./images/tor/overview.avif)
 
 ### General Info:
 
@@ -509,11 +526,11 @@ A browser for gamers
 
 ## Ulaa
 
-![ulaa ovewview](./images/ulaa/image1.png)
+![Ulaa ovewview](./images/ulaa/overview.avif)
 
 ## Ungoogled
 
-![ungoogled chromium overview](./images/ungoogled_chromium/image2.png)
+![Ungoogled Chromium overview](./images/ungoogled_chromium/overview.avif)
 
 ### General Info:
 
@@ -526,15 +543,27 @@ A browser for gamers
 
 ## Vivaldi
 
-![vivaldi overview](./images/vivaldi/image4.png)
+![Vivaldi overview](./images/vivaldi/overview.avif)
 
 ## General Info:
 
 - Baded on chromium
 
+## Waterfox
+
+![Waterfox overview](./images/waterfox/overview.avif)
+
+### General Info:
+
+## Yab
+
+![Yab Overview](./images/yab/overview.avif)
+
+### General Info:
+
 ## Yandex
 
-![yandex overview](./images/yandex/image5.png)
+![yandex overview](./images/yandex/overview.avif)
 
 ### General Info:
 
@@ -543,7 +572,7 @@ A browser for gamers
 
 ## Zen
 
-![zen overview](./images/zen/image1.png)
+![zen overview](./images/zen/overview.avif)
 
 ### General Info:
 
