@@ -35,7 +35,7 @@ Status -> Fast Pacing: 1 | Slow Development: 1 > x > 0 | Discontinued: 0
 | Chromium                 | Blink              | No           | No              | ✅       | Gemini      |        | Yes         | …            |       |
 | [Crest](#crest)          | Blink              | No           | No              | 🍎       | …           |        | Yes         | …            |       |
 | [Dia](#dia)              | Blink              | No           | No              | ✳️       | Dia         | 48.3   | No          | …            |       |
-| [DDG](#duckduckgo)       | Blink              | !            | No              | ❇️       | Duck AI     |        | Yes         | …            |       |
+| [DDG](#duckduckgo)       | Webview            | !            | No              | ❇️       | Duck AI     |        | Yes         | …            |       |
 | [Edge](#edge)            | Blink              | Flag         | No              | ✅       | Copilot     | 39.7   | No          | …            |       |
 | [Epiphany](#epiphany)    | WebKitGTK          | No           | No              | 🐧       | …           |        | Yes         | …            |       |
 | [Falkon](#falkon)        | QtWebEngine        | No           | No              | 🐧       | …           |        | Yes         | …            |       |
@@ -65,9 +65,10 @@ Status -> Fast Pacing: 1 | Slow Development: 1 > x > 0 | Discontinued: 0
 | [Ulaa](#ulaa)            | Blink              | No           | No              | ✅       | …           |        | No          | …            |       |
 | [Ungoogled](#ungoogled)  | Blink              | No           | No              | 💻       | …           | 51.4   | Yes         | …            |       |
 | [Vivaldi](#vivaldi)      | Blink              | Yes          | No              | ✅       | …           |        | Yes         | …            |       |
-| [Yab](#yab)              | Blink              | No           | No              | 🍎       | Multiple    | 16.6   | No          | …            |       |
+| [Yab](#yab)              | Webview            | !            | No              | 🍎       | Multiple    | 16.6   | No          | …            |       |
 | [Yandex](#yandex)        | Blink              | No           | No              | ✅       | …           |        | No          | …            |       |
 | [Zen](#zen)              | Gecko              | Plugin       | No              | 💻       | …           | 40.6   | Yes         | …            |       |
+| [Zephium](#zephium)      | Webview            | !            | No              | 🍎       | Multiple    | 45.2   | Yes         | …            |       |
 
 ## Aloha
 
@@ -76,6 +77,8 @@ Status -> Fast Pacing: 1 | Slow Development: 1 > x > 0 | Discontinued: 0
 ### General Info:
 
 - Based on chromium
+
+![Aloha size](./images/aloha/size.avif)
 
 ## Angelfish
 
@@ -158,6 +161,8 @@ It is in fact a solid browser, not for "normal", as in "non-experienced" or "non
 - Uses electron
 - Minimalistic
 
+![Blanc size](./images/blanc/size.avif)
+
 ## Brave
 
 ![brave overview](./images/brave/overview.avif)
@@ -217,6 +222,8 @@ The browser from the company that is banking the web. Mozilla wouldn't exist if 
 - Open source
 - Based on Chromium
 
+![Crest size](./images/crest/size.avif)
+
 ## Dia
 
 ![Dia overview](./images/dia/overview.avif)
@@ -231,7 +238,7 @@ The browser from the company that is banking the web. Mozilla wouldn't exist if 
 
 This is just bad. The size is colossal, it has memory leaks, the design had a glow down since last time I tested and, in general, it performed poorly
 
-![Dia overview](./images/dia/size.avif)
+![Dia size](./images/dia/size.avif)
 
 ## Duckduckgo
 
@@ -367,6 +374,8 @@ With limited testing time, I strongly belive that this can be a great tool. Pers
 - debian
 - iridium-browser
 
+![Helium size](./images/helium/size.avif)
+
 ## Ladybird
 
 ![Ladybird overview](./images/ladybird/overview.avif)
@@ -444,6 +453,8 @@ A browser for gamers
 ![Phi overview](./images/phi/overview.avif)
 
 ### General Info:
+
+![Phi size](./images/phi/size.avif)
 
 ## Phoebe
 
@@ -524,6 +535,8 @@ A browser for gamers
 - Tor protocol
 - Improved security
 
+![Tor size](./images/tor/size.avif)
+
 ## Ulaa
 
 ![Ulaa ovewview](./images/ulaa/overview.avif)
@@ -561,6 +574,8 @@ A browser for gamers
 
 ### General Info:
 
+- Electron webview
+
 ## Yandex
 
 ![yandex overview](./images/yandex/overview.avif)
@@ -581,16 +596,24 @@ A browser for gamers
 - Based on firefox
 - Open source
 
-### Systems Avaiable:
-
-- MacOS
-- Linux
-- Windows
-
 ### Patches:
 
 - betterfox.js
+- custom chrome
+- memory leak fixes
+
+![Zen size](./images/zen/size.avif)
 
 ### Author's Overview
 
 built by the community for the community
+
+## Zephium
+
+![Zephium overview](./images/zephium/overview.avif)
+
+### General Info:
+
+- Tauri webview
+
+![Zephium size](./images/zephium/size.avif)
