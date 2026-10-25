@@ -20,6 +20,8 @@ Status -> Fast Pacing: 1 | Slow Development: 1 > x > 0 | Discontinued: 0
 💻 - All desktop platforms \
 ✅ - All major platforms
 
+! - Not applicable: The browser is based on the webview of the system (if it includes DRM, then it does support)
+
 | Browser                  | Engine             | Widevine DRM | Paid / Premium  | Support  | AI featured | Speed  | Open Source | Status       | Score |
 |--------------------------|--------------------|--------------|-----------------|----------|-------------|--------|-------------|--------------|-------|
 | [Aloha](#aloha)          | Blink              | No           | No              | ✅       | …           |        | No          | …            |       |
@@ -33,7 +35,7 @@ Status -> Fast Pacing: 1 | Slow Development: 1 > x > 0 | Discontinued: 0
 | [Brave Origin](#brave)   | Blink              | Config       | Yes             | ✅       | …           | 48.9   | Yes         | …            |       |
 | [Chrome](#chrome)        | Blink              | L3           | No              | ✅       | Gemini      |        | No          | …            |       |
 | Chromium                 | Blink              | No           | No              | ✅       | Gemini      |        | Yes         | …            |       |
-| [Crest](#crest)          | Blink              | No           | No              | 🍎       | …           |        | Yes         | …            |       |
+| [Crest](#crest)          | Webview            | !            | No              | 🍎       | …           |        | Yes         | …            |       |
 | [Dia](#dia)              | Blink              | No           | No              | ✳️       | Dia         | 48.3   | No          | …            |       |
 | [DDG](#duckduckgo)       | Webview            | !            | No              | ❇️       | Duck AI     |        | Yes         | …            |       |
 | [Edge](#edge)            | Blink              | Flag         | No              | ✅       | Copilot     | 39.7   | No          | …            |       |
@@ -220,7 +222,6 @@ The browser from the company that is banking the web. Mozilla wouldn't exist if 
 ### General Info:
 
 - Open source
-- Based on Chromium
 
 ![Crest size](./images/crest/size.avif)
 
